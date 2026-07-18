@@ -14222,6 +14222,7 @@ markers:
   - {type: punctuation, offset: 30689, content: ), id: KR3ef075_jc_009-bkkpn6795}
   - {type: 'tls:seg', offset: 30689, content: '', id: KR3ef075_jc_008-d16.d2.p364s6}
   - {type: punctuation, offset: 30691, content: (, id: KR3ef075_jc_009-bkkpn6796}
+  - {type: 'voice:problem', offset: 30691, length: 191, id: KR3ef075_jc_009-bkkvprob1, source: parens, bucket: body, code: expected-close, message: 'expected '')'' after ''('' at offset 30691, got ''('' at offset 30882'}
   - {type: punctuation, offset: 30693, content: （, id: KR3ef075_jc_009-bkkpn6797}
   - {type: 'tls:seg-start', offset: 30693, content: '', id: KR3ef075_jc_008-d16.d2.p364s7, seg_type: comm, member_ids: [KR3ef075_jc_008-d16.d2.p364s7, KR3ef075_jc_008-d16.d2.p364s8, KR3ef075_jc_008-d16.d2.p364s9, KR3ef075_jc_008-d16.d2.p364s10, KR3ef075_jc_008-d16.d2.p364s11, KR3ef075_jc_008-d16.d2.p364s12, KR3ef075_jc_008-d16.d2.p364s13, KR3ef075_jc_008-d16.d2.p364s14, KR3ef075_jc_008-d16.d2.p364s15, KR3ef075_jc_008-d16.d2.p364s16, KR3ef075_jc_008-d16.d2.p364s17, KR3ef075_jc_008-d16.d2.p364s18, KR3ef075_jc_008-d16.d2.p364s19, KR3ef075_jc_008-d16.d2.p364s20, KR3ef075_jc_008-d16.d2.p364s21, KR3ef075_jc_008-d16.d2.p364s22, KR3ef075_jc_008-d16.d2.p364s23, KR3ef075_jc_008-d16.d2.p364s24, KR3ef075_jc_008-d16.d2.p364s25, KR3ef075_jc_008-d16.d2.p364s26, KR3ef075_jc_008-d16.d2.p364s27, KR3ef075_jc_008-d16.d2.p364s28, KR3ef075_jc_008-d16.d2.p364s29, KR3ef075_jc_008-d16.d2.p364s30, KR3ef075_jc_008-d16.d2.p364s31, KR3ef075_jc_008-d16.d2.p364s32, KR3ef075_jc_008-d16.d2.p364s33, KR3ef075_jc_008-d16.d2.p364s34, KR3ef075_jc_008-d16.d2.p364s35, KR3ef075_jc_008-d16.d2.p364s36, KR3ef075_jc_008-d16.d2.p364s37, KR3ef075_jc_008-d16.d2.p364s38, KR3ef075_jc_008-d16.d2.p364s39, KR3ef075_jc_008-d16.d2.p364s40, KR3ef075_jc_008-d16.d2.p364s41, KR3ef075_jc_008-d16.d2.p364s42, KR3ef075_jc_008-d16.d2.p364s43, KR3ef075_jc_008-d16.d2.p364s44, KR3ef075_jc_008-d16.d2.p364s45]}
   - {type: 'tls:seg', offset: 30693, content: '', id: KR3ef075_jc_008-d16.d2.p364s7}
@@ -18057,4 +18058,4 @@ markers:
   - {type: 'tls:seg-end', offset: 38688, content: '', id: KR3ef075_jc_008-d16.d2.p458s34_end, seg_type: comm}
   - {type: xml-element, offset: 38688, content: '', id: KR3ef075_jc_008-d16.d2p458_end, name: p, role: close, attrs: {'xml:id': KR3ef075_jc_008-d16.d2p458}}
   back: []
-hash: sha256:68aaf975a3b2dd632fe395e37eb32fb1a5f1ddb79a1ed2e379bd16465d1762e1
+hash: sha256:b5a31e00554530429703a4a581c0c29728a4f271c11fc841b55581a1be62df91
