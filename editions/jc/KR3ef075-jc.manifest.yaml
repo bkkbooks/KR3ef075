@@ -35,7 +35,7 @@ assets:
   - {seq: 16, filename: KR3ef075_016-jc.yaml, hash: 'sha256:d15f2b5263dbf4c6be662c46750fa4a7092b580424f2d87e1c90f2f566acaeba'}
   - {seq: 17, filename: KR3ef075_017-jc.yaml, hash: 'sha256:a8c25b4799b37278eff975cad1cdce18e468d8c7547bdca9e43b05c0cad73fb5'}
   - {seq: 18, filename: KR3ef075_018-jc.yaml, hash: 'sha256:b04ad67d90faf35656b24cb886699b070d55e433c696cf588ace4053007e18ad'}
-  - {seq: 19, filename: KR3ef075_019-jc.yaml, hash: 'sha256:3767db6194c3a969103226dc09d4564579f5e7f9d525c69e5038f9865cd13fd9'}
+  - {seq: 19, filename: KR3ef075_019-jc.yaml, hash: 'sha256:5baf63208cfdcbbccfcec4b0129bb9cc858452101bc3004f9cbb5860c2fe8912'}
   markers:
   - {seq: 1, role: markers, filename: assets/KR3ef075_001-jc.markers.yaml, hash: 'sha256:e95a74d485d50fc4e7a37cd13a5de3c8324d2d86658beb9ff0792be6959774a2'}
   - {seq: 2, role: markers, filename: assets/KR3ef075_002-jc.markers.yaml, hash: 'sha256:43216fb70c81b48ac6b068aff94067c21df39689aed126b7295d13f0c033800d'}
@@ -55,7 +55,7 @@ assets:
   - {seq: 16, role: markers, filename: assets/KR3ef075_016-jc.markers.yaml, hash: 'sha256:d7305547b51ea9feb9c8ed4d58c86d3f5644ed323334064e61d9f5348eb3f41c'}
   - {seq: 17, role: markers, filename: assets/KR3ef075_017-jc.markers.yaml, hash: 'sha256:c02285749042498cbc3e1b9a46f853874389f981555de79ee63079e1ddc62e55'}
   - {seq: 18, role: markers, filename: assets/KR3ef075_018-jc.markers.yaml, hash: 'sha256:cbb9a17f3b9c502d4f74a798a5b2533611c5dda24686b03d184eb97dc7b5c147'}
-  - {seq: 19, role: markers, filename: assets/KR3ef075_019-jc.markers.yaml, hash: 'sha256:89c072cf1cb808ef32bb6adb0a7720768a6bb30f5e1288b4442951ee1bdb6e11'}
+  - {seq: 19, role: markers, filename: assets/KR3ef075_019-jc.markers.yaml, hash: 'sha256:c475a3c48cf3f7bb1dc4186727300e36c0cb53363c74754ff2c085e92743cae8'}
 table_of_contents:
 - ref:
     seq: 1
@@ -1591,10 +1591,10 @@ table_of_contents:
     seq: 19
     marker_id: KR3ef075_jc_000-d27.h1s1
     span:
-    - front
+    - body
     - 0
     - 990
   label: 傷寒直指後序
   type: section
   level: 1
-hash: sha256:c7c1157773be89e88e557558bb858fccb61da57d884eec4ea2bbe1c7720a0bd4
+hash: sha256:91ac13c8ba1f803943829e731d0886fdd88cd9a350f4cca93db66b374a33d55e
